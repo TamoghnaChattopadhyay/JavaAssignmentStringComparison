@@ -1,0 +1,18 @@
+
+public class JavaAssignmentStringComparison {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String FirstString = "Tamo"; 
+		String SecondString = "Tamo"; 
+		String ThridString = "HiTamo"; 
+		
+		
+		
+		System.out.println(FirstString.equals(SecondString));//true
+		System.out.println(FirstString.equals(ThridString));//true
+		   
+		 }
+	}
+
+
