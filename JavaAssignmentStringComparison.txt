@@ -9,8 +9,8 @@ public class JavaAssignmentStringComparison {
 		
 		
 		
-		System.out.println(FirstString.equals(SecondString));//true
-		System.out.println(FirstString.equals(ThridString));//true
+		System.out.println(FirstString.equals(SecondString));
+		System.out.println(FirstString.equals(ThridString));
 		   
 		 }
 	}
